@@ -1,0 +1,25 @@
+#display {
+  font-size: 3rem;
+}
+
+/* Custom Calculator Styles */
+body {
+  background-color: black !important;
+}
+
+#display, #secondaryDisplay {
+  background-color: #222 !important;
+  color: white !important;
+  border-radius: 12px !important;
+  padding: 20px !important;
+  font-size: 36px !important;
+  text-align: right !important;
+}
+
+.btn {
+  border-radius: 12px !important;
+  font-size: 24px !important;
+  padding: 20px !important;
+  margin-bottom: 10px !important;
+  color: white !important; /* Add this line to make the button text white */
+}
